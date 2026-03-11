@@ -143,6 +143,6 @@ Trong quá trình học tập và làm dự án, mình đã tham khảo các tà
 
 Dự án này là sản phẩm cá nhân phục vụ môn học và nghiên cứu thực tế. 
 Nếu bạn thấy dự án hữu ích hoặc có góp ý để mình cải thiện code/kiến trúc, vui lòng mở một Issue hoặc liên hệ qua email sinh viên của mình: 
-- **Tên:** [Điền tên của bạn]
-- **Email/LinkedIn:** [Điền email hoặc link LinkedIn]
-- **Github:** [Link Github cá nhân]
+- **Tên:** Vũ Mạnh Hiệp
+- **Email/LinkedIn:** hiemvm04@gmail.com
+- **Github:** https://github.com/hiepvm04
