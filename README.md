@@ -79,24 +79,24 @@ Execute the notebooks sequentially in order:
 * **Linux/macOS (using `make`):** 
 Open the terminal and run the commands one by one, or use `make all` to run everything:
 ```bash
-# 1. Feature Engineering (Process features and store them in the Feature Store)
-make feature-engineering
-
-# 2. Train Retrieval Model (Two-Tower Model)
-make train-retrieval
-
-# 3. Train Ranking Model (CatBoost Model)
-make train-ranking
-
-# 4. Compute and Store Vector Embeddings
-make create-embeddings
-
-# 5. Initialize Deployments on Hopsworks
-make create-deployments
-
-# 6. Schedule Automated Materialization Jobs
-make schedule-materialization-jobs
-```
+  # 1. Feature Engineering (Process features and store them in the Feature Store)
+  make feature-engineering
+  
+  # 2. Train Retrieval Model (Two-Tower Model)
+  make train-retrieval
+  
+  # 3. Train Ranking Model (CatBoost Model)
+  make train-ranking
+  
+  # 4. Compute and Store Vector Embeddings
+  make create-embeddings
+  
+  # 5. Initialize Deployments on Hopsworks
+  make create-deployments
+  
+  # 6. Schedule Automated Materialization Jobs
+  make schedule-materialization-jobs
+  ```
 
 * **Windows (using `uv` directly):**
   ```powershell
