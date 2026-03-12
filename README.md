@@ -7,7 +7,6 @@
 ![Hopsworks](https://img.shields.io/badge/Platform-Hopsworks-E87722?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![uv](https://img.shields.io/badge/Package_Manager-uv-6E4FBB?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Personal_Project-8A2BE2?style=for-the-badge)
 
 **Hệ thống gợi ý sản phẩm thời trang cá nhân hóa end-to-end, áp dụng kiến trúc 4 giai đoạn với Two-Tower Retrieval, CatBoost Ranking và LLM Ranking tích hợp OpenAI.**
 
